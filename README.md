@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GhilmanDilshad
+- 👋 Hi, I’m GhilmanDilshad
 - 👀 I’m interested in Programming/Data Sciecne related with Ground Water/ Hydrologie/ Hydraluic Structures/ Structure Analysis and Civil Engineer workings  
 - 🌱 I’m currently learning Analytic Element Modelling for Ground Water.
 - 💞️ I’m looking to collaborate on any scientific work related with the above mentioned subjects.
